@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Monster\\source\\repos\\case1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{15A11B12-C49F-4769-841B-52A19E1019D0}|case1.csproj|c:\\users\\monster\\source\\repos\\case1\\maxincreasingsubarrayasjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A11B12-C49F-4769-841B-52A19E1019D0}|case1.csproj|solutionrelative:maxincreasingsubarrayasjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A11B12-C49F-4769-841B-52A19E1019D0}|case1.csproj|c:\\users\\monster\\source\\repos\\case1\\filteremployees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A11B12-C49F-4769-841B-52A19E1019D0}|case1.csproj|solutionrelative:filteremployees.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A11B12-C49F-4769-841B-52A19E1019D0}|case1.csproj|c:\\users\\monster\\source\\repos\\case1\\filterpeoplefromxml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A11B12-C49F-4769-841B-52A19E1019D0}|case1.csproj|solutionrelative:filterpeoplefromxml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{15A11B12-C49F-4769-841B-52A19E1019D0}|case1.csproj|c:\\users\\monster\\source\\repos\\case1\\longestvowelsubsequenceasjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{15A11B12-C49F-4769-841B-52A19E1019D0}|case1.csproj|solutionrelative:longestvowelsubsequenceasjson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FilterEmployees.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\source\\repos\\case1\\FilterEmployees.cs",
+              "RelativeDocumentMoniker": "FilterEmployees.cs",
+              "ToolTip": "C:\\Users\\Monster\\source\\repos\\case1\\FilterEmployees.cs",
+              "RelativeToolTip": "FilterEmployees.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T12:52:58.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FilterPeopleFromXml.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\source\\repos\\case1\\FilterPeopleFromXml.cs",
+              "RelativeDocumentMoniker": "FilterPeopleFromXml.cs",
+              "ToolTip": "C:\\Users\\Monster\\source\\repos\\case1\\FilterPeopleFromXml.cs",
+              "RelativeToolTip": "FilterPeopleFromXml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T12:49:13.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MaxIncreasingSubArrayAsJson.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\source\\repos\\case1\\MaxIncreasingSubArrayAsJson.cs",
+              "RelativeDocumentMoniker": "MaxIncreasingSubArrayAsJson.cs",
+              "ToolTip": "C:\\Users\\Monster\\source\\repos\\case1\\MaxIncreasingSubArrayAsJson.cs",
+              "RelativeToolTip": "MaxIncreasingSubArrayAsJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T12:26:30.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LongestVowelSubsequenceAsJson.cs",
+              "DocumentMoniker": "C:\\Users\\Monster\\source\\repos\\case1\\LongestVowelSubsequenceAsJson.cs",
+              "RelativeDocumentMoniker": "LongestVowelSubsequenceAsJson.cs",
+              "ToolTip": "C:\\Users\\Monster\\source\\repos\\case1\\LongestVowelSubsequenceAsJson.cs",
+              "RelativeToolTip": "LongestVowelSubsequenceAsJson.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T12:26:48.057Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
